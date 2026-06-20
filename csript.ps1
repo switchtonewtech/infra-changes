@@ -1,0 +1,1 @@
+write-host "this is file from killercoda labs"
